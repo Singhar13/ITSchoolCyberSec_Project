@@ -1,1 +1,1 @@
-Proiectul pentru proba practica sustinuta la finalul cursului Cybersecurity (final 2026)
+Proiectul pentru proba practica sustinuta la finalul cursului Cyber Security (final 2026)
